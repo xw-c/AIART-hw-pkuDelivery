@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 2c60b989ee24840aba4986ad7373ba6e
+  - enabled: 1
+    path: Assets/Scenes/baijiang.unity
+    guid: 5572fc0f08e569e45b5c7b4da80209a4
+  - enabled: 1
+    path: Assets/Scenes/liyi.unity
+    guid: ef469d692db6b4e32b868235bf7fad20
+  - enabled: 1
+    path: Assets/Scenes/Lab.unity
+    guid: 7d7f76add8c5d40149083ff8a98c4bf1
+  - enabled: 1
+    path: Assets/Scenes/erjiao.unity
+    guid: 83ec1607a918a42bb882f821f80198d0
+  - enabled: 1
+    path: Assets/Game_Run/Scenes/Playground.unity
+    guid: 39e4f75fb05004b4c8a2739122e05c99
+  - enabled: 1
+    path: Assets/Scenes/yijiao.unity
+    guid: ad27891bd78354f48b0ab284182b99ae
+  - enabled: 1
+    path: Assets/Game_Snake/Scenes/Snake.unity
+    guid: 2b02c29601fc84e49a18fde7fed33f95
+  - enabled: 1
+    path: Assets/Scenes/jisuanzhongxin.unity
+    guid: c86141debff3643a7a12c850dc2edc3b
+  - enabled: 1
+    path: Assets/Scenes/nongyuan.unity
+    guid: 138b0cc9801aa45a98e8437df9cd54a8
+  - enabled: 1
+    path: Assets/Game_Cat/Cat.unity
+    guid: 9963edee40640e643a2af0f511ae1bec
+  - enabled: 1
+    path: Assets/Scenes/chaomian.unity
+    guid: 0a7165165d5343146890849adeadb01b
+  - enabled: 1
+    path: Assets/Scenes/Lab2.unity
+    guid: 089cc4756c8c9ae498f66d3cb292586c
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 16f4967b5b6224c47994103b55eaa9b4
+  - enabled: 1
+    path: Assets/Scenes/tushuguan.unity
+    guid: 2b1de07fe3a6846bd8e6c1a832e373b3
+  - enabled: 1
+    path: Assets/Scenes/weiminghu.unity
+    guid: c339c08107d56495b8d8ab6ae901e14b
+  - enabled: 1
+    path: Assets/Scenes/weiminghu_north.unity
+    guid: 34a45d89b62b04a66bfba459e979108a
+  - enabled: 1
+    path: Assets/Scenes/weiminghu_south.unity
+    guid: e0beafe14cb4a4f8aa2201558cbf9cc1
+  - enabled: 1
+    path: Assets/Scenes/weiminghu_west.unity
+    guid: be8f84fd5c2684272b67563c116753c6
+  - enabled: 1
+    path: Assets/Game_Litter/Assets/Scenes/Litter.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
